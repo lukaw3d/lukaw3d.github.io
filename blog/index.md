@@ -3,3 +3,4 @@
 - [What's that thing in Gitlab called?](./pages/gitlab_vocabulary.md)
 - [Strictly typed VueComponent.extend](./pages/typed-vue-extend.md)
 - [`ky` gets stuck if you make a large request. And it won't be fixed](./pages/ky_large_requests.md)
+- [Easily make vuetify btns look like links and take less space](./pages/vuetify-link-btn.md)
