@@ -2,3 +2,4 @@
 - [What's that thing in Webpack called?](./pages/webpack_vocabulary.md)
 - [What's that thing in Gitlab called?](./pages/gitlab_vocabulary.md)
 - [Strictly typed VueComponent.extend](./pages/typed-vue-extend.md)
+- [`ky` gets stuck if you make a large request. And it won't be fixed](./pages/ky_large_requests.md)
