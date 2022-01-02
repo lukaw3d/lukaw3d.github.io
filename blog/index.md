@@ -5,3 +5,4 @@
 - [`ky` gets stuck if you make a large request. And it won't be fixed](./pages/ky_large_requests.md)
 - [Easily make vuetify btns look like links and take less space](./pages/vuetify-link-btn.md)
 - [Fix `array.filter(` return type](./pages/typescript_array_type.md)
+- [What is that response mocking service?](./pages/response_mocking_service.md)
