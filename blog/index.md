@@ -8,3 +8,4 @@
 - [What is that response mocking service?](./pages/response_mocking_service.md)
 - [What is that dns domain redirecting service for masking localhost urls?](./pages/domain_mocking_service.md)
 - [Debug before javascript opens a new tab](./pages/debug_new_tab.md)
+- [Is web still weird?](./pages/web_weird.md)
