@@ -6,3 +6,4 @@
 - [Easily make vuetify btns look like links and take less space](./pages/vuetify-link-btn.md)
 - [Fix `array.filter(` return type](./pages/typescript_array_type.md)
 - [What is that response mocking service?](./pages/response_mocking_service.md)
+- [What is that dns domain redirecting service for masking localhost urls?](./pages/domain_mocking_service.md)
