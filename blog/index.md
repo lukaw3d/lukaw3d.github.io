@@ -11,3 +11,6 @@
 - [Is web still weird?](./pages/web_weird.md)
 - [Gitlab has magic links to job artifacts (including HTML)](./pages/gitlab_artifact_links.md)
 - [Make ESLint in VSCode less annoying](./pages/eslint_vscode.md)
+- [Bookmarklet to speedup video playback](./pages/bookmarklet_speedup.md)
+- [Bookmarklet to play a video in picture-in-picture mode](./pages/bookmarklet_pip.md)
+- [Bookmarklet to make website contentEditable](./pages/bookmarklet_contenteditable.md)
