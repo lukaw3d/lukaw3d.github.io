@@ -1,4 +1,4 @@
-# Quick check if your npm dependencies are still maintained
+# Script to check if your npm dependencies are still maintained
 
 _or: Check published time of dependency@latest for each of your dependencies_
 
