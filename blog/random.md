@@ -8,6 +8,7 @@
 - [What is that response mocking service?](./pages/response_mocking_service.md)
 - [What is that dns domain redirecting service for masking localhost urls?](./pages/domain_mocking_service.md)
 - [Bookmarklet to debug before javascript opens a new tab](./pages/debug_new_tab.md)
+- [Bookmarklet to debug before javascript navigates using pushState](./pages/debug_push_state.md)
 - [Is web still weird?](./pages/web_weird.md)
 - [Gitlab has magic links to job artifacts (including HTML)](./pages/gitlab_artifact_links.md)
 - [Make ESLint in VSCode less annoying](./pages/eslint_vscode.md)
