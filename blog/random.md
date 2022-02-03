@@ -14,3 +14,4 @@
 - [Bookmarklet to speedup video playback](./pages/bookmarklet_speedup.md)
 - [Bookmarklet to play a video in picture-in-picture mode](./pages/bookmarklet_pip.md)
 - [Bookmarklet to make website contentEditable](./pages/bookmarklet_contenteditable.md)
+- [Quick check if your npm dependencies are still maintained](./pages/npm_deps_maintained.md)
