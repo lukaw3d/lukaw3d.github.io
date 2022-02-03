@@ -17,3 +17,4 @@
 - [Bookmarklet to make website contentEditable](./pages/bookmarklet_contenteditable.md)
 - [Script to check if your npm dependencies are still maintained](./pages/npm_deps_maintained.md)
 - [Script to check which version of npm dependency to pin](./pages/npm_peer_deps.md)
+- [Script to recover deleted git branches with reflog](./pages/git_reflog.md)
