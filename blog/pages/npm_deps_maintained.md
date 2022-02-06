@@ -2,7 +2,7 @@
 
 _or: Check published time of dependency@latest for each of your dependencies_
 
-```sh
+```bash
 cat package.json \
 | jq '.dependencies, .devDependencies | keys | .[] | "npm info --json "+.   ' -r \
 | sh \

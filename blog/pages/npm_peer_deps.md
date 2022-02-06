@@ -2,6 +2,6 @@
 
 To see which version of `html-loader` stopped supporting Webpack 4:
 
-```sh
+```bash
 npm info 'html-loader@*' peerDependencies
 ```
