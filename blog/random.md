@@ -20,3 +20,4 @@
 - [Script to recover deleted git branches with reflog](./pages/git_reflog.md)
 - [You can use @vue/test-utils with Storybook to mock deep components](./pages/vue-test-utils_with_storybook.md)
 - [Gitlab CI - push cache only if changed](./pages/gitlab_ci_cache.md)
+- [Script to check installed sizes of npm dependencies](./pages/npm_deps_sizes.md)
