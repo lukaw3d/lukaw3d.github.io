@@ -3,5 +3,14 @@
 ```js
 javascript:
 delete window.history;
-window.history = { pushState(){debugger;} };
+window.history = { pushState(...args) { debugger; } };
+```
+
+## Update:
+
+easier with Navigation API now:
+
+```js
+javascript:
+navigation.addEventListener('navigate', (...args) => { debugger; });
 ```
