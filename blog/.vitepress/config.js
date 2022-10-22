@@ -4,7 +4,7 @@ const config = {
   description: 'typescript, vue, misc',
   base: '/',
   themeConfig: {
-     sidebar: false,
+    sidebar: false,
   }
 };
 
