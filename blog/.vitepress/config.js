@@ -5,7 +5,8 @@ const config = {
   base: '/',
   themeConfig: {
     sidebar: false,
-  }
+  },
+  appearance: 'dark',
 };
 
 module.exports = config;
