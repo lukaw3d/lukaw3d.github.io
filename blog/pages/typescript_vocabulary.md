@@ -24,3 +24,4 @@ _or: Typescript vocabulary that is impossible to google_
   - "**assertion functions**": throws
 
 - "**tsm**": That thing that is better than ts-node
+  - Update: there are multiple Node.js TypeScript runtimes now: https://github.com/privatenumber/ts-runtime-comparison
