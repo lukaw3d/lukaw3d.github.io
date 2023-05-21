@@ -2,8 +2,7 @@
   "scripts": {
     "dev": "vitepress dev blog",
     "build": "vitepress build blog",
-    "build-serve": "vitepress serve blog",
-    "gh": "yarn build && cd blog/.vitepress/dist && git init && git add -A && git commit -m 'deploy' && git push -f git@github.com:lukaw3d/lukaw3d.github.io.git master:gh-pages && cd -"
+    "build-serve": "vitepress serve blog"
   },
   "devDependencies": {
     "vitepress": "^1.0.0-alpha.22"
