@@ -15,4 +15,4 @@ const good2 = ['a', null, 'b'].filter((a): a is NonNullable<typeof a> => !!a)
 // string[]
 ```
 
-https://www.typescriptlang.org/play?&q=166#code/MYewdgzgLgBARgQwCYwLwwNoHIFYDQwCMBWcWAugHQBmAlgDZQCmATgBRsICUaAfDFACeAByYhqMBGlTos0FrTABzLFwCwAKAD0WmG3mKlMAD4wwAVwC2cVlwzlNm0JFhKQIFOmy4CxGKQoaBmZ2Ti4ALkkYWggYA2U+ARExCSkZWXiVdW1dTPtHDWdoGDcPACY0TBx8M3N6ehIyKjpGVg5uSKkYmAA5cB66+gQ4eiYAHiFRcUl+VH4AQnnuTR04qAVleyA
+https://www.typescriptlang.org/play?&q=166#code/MYewdgzgLgBARgQwCYwLwwNoHIFYDQwCMBWcWAugHQBmAlgDZQCmATgBRsICUaAfDFACeAByYhqMBGlTos0FrTABzLFwCwAKAD0WmHpgA9APybNoSLCUgQKdNlwFiMUhRoNm7TlwBckmLQgYeUUlPgERMQkpGVlg5VVNHX1DEw0zcGgYKxsAJjRMHHwYMABXenoSMio6RlYObl8pAJgAOXAWsvoEOHomAB4hUXFJflR+AEJx7kTdfWNNIA
