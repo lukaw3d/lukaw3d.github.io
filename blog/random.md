@@ -22,3 +22,4 @@
 - [Gitlab CI - push cache only if changed](./pages/gitlab_ci_cache.md)
 - [Script to check installed sizes of npm dependencies](./pages/npm_deps_sizes.md)
 - [JavaScript playgrounds that print inline results](./pages/javascript_playgrounds_inline_results.md)
+- [How to customize spacing in a dashed border](./pages/css_dashed_border_spacing.md)
