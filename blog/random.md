@@ -23,3 +23,4 @@
 - [Script to check installed sizes of npm dependencies](./pages/npm_deps_sizes.md)
 - [JavaScript playgrounds that print inline results](./pages/javascript_playgrounds_inline_results.md)
 - [How to customize spacing in a dashed border](./pages/css_dashed_border_spacing.md)
+- [Bookmarklet that runs before page loads](./pages/bookmarklet_before_init.md)
