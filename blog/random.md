@@ -24,3 +24,4 @@
 - [JavaScript playgrounds that print inline results](./pages/javascript_playgrounds_inline_results.md)
 - [How to customize spacing in a dashed border](./pages/css_dashed_border_spacing.md)
 - [Bookmarklet that runs before page loads](./pages/bookmarklet_before_init.md)
+- [Bookmarklet to select a region of a webpage and view it in picture-in-picture mode](./pages/bookmarklet_pip_region.md)
