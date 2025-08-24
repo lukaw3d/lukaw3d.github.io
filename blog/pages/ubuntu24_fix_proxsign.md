@@ -78,8 +78,10 @@ echo 'Unattended-Upgrade::Allowed-Origins:: "LP-PPA-mozillateam:${distro_codenam
 AppImage never works. Try `--no-sandbox` like every other broken AppImage? Nope still broken.
 
 /home/luka/.local/share/SETCCE/proXSign/logs/proxsign.log says
-> Adding new pkcs#11 module .. opensc-pkcs11 (/usr/lib/x86_64-linux-gnu/opensc-pkcs11.so)
-> Error loading pkcs#11 module: (code:-5977) /lib/x86_64-linux-gnu/libgio-2.0.so.0: undefined symbol: g_source_set_static_name
+```
+Adding new pkcs#11 module .. opensc-pkcs11 (/usr/lib/x86_64-linux-gnu/opensc-pkcs11.so)
+Error loading pkcs#11 module: (code:-5977) /lib/x86_64-linux-gnu/libgio-2.0.so.0: undefined symbol: g_source_set_static_name
+```
 
 Try some chatgpt diagnosis suggestions
 ```sh
