@@ -25,3 +25,4 @@
 - [How to customize spacing in a dashed border](./pages/css_dashed_border_spacing.md)
 - [Bookmarklet that runs before page loads](./pages/bookmarklet_before_init.md)
 - [Bookmarklet to select a region of a webpage and view it in picture-in-picture mode](./pages/bookmarklet_pip_region.md)
+- [Ubuntu 24: how to use SETCCE proXSign with YubiKey](./pages/ubuntu24_fix_proxsign.md)
