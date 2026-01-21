@@ -6,7 +6,7 @@ export default {
       allRepos.push(...repos)
       if (repos.length < 100) break
     }
-    const reposWithPages = allRepos.filter(r => r.has_pages)
+    const reposWithPages = allRepos.filter(r => !r.archived && r.has_pages)
     return reposWithPages
   }
 }
